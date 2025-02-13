@@ -1,1 +1,1 @@
-printf('new');
+print(new)
